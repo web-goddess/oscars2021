@@ -7,3 +7,13 @@
     width: 700px;
   }
 }
+
+.monkeys {
+  width: 100%;
+}
+
+@media only screen and (min-width: 1100px) {
+  .monkeys {
+    width: 1000px;
+  }
+}
