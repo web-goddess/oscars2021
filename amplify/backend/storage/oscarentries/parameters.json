@@ -1,0 +1,5 @@
+{
+    "tableName": "oscarentries",
+    "partitionKeyName": "id",
+    "partitionKeyType": "S"
+}

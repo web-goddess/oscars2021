@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "storage": {
+      "oscarentries": [
+        "create",
+        "read"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}
