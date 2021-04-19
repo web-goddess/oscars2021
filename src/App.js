@@ -59,12 +59,12 @@ function App() {
     <Container>
       <div>
         <div align="center">
-        <p><img src={logo} alt="Web-Goddess Oscar Contest 2021" /></p>
+        <p><img src={logo} alt="Web-Goddess Oscar Contest 2021" className="logo" /></p>
         <h3>Enter the 2021 W-G Oscars Contest</h3>
         </div>
         <br/>
         <p><strong>The Rules:</strong></p>
-        <ol><li> Your name and email address are required. Email address is only used to contact the winner for shipping information, then all data will be deleted.</li>
+        <ol><li> Your name and email address are required. Your email address is only used to contact the winner for shipping information, then all data will be deleted.</li>
         <li> You can enter more than once if you like, but only your final entry will count.</li>
         <li> Once all the categories are announced, the winner will be the person whose final entry predicted the most categories correctly.</li>
         <li> In the event of a tie, the tie-breaker will be whoever comes closest to the number of celebrities featured in the "In Memoriam" reel.</li>
